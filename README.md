@@ -3,5 +3,6 @@ A collection of things you can do at home
 
 ## Index
 
+- [Banana bread](./banana_bread.md)
 - [Basic relish](./easy_relish_base.md)
-- [Ginger Beer](./ginger_beer.md)
+- [Ginger beer](./ginger_beer.md)
