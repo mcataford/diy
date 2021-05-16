@@ -20,4 +20,4 @@ In your fermentation vessel, mix in __7-10 cups of water__, the __syrup__ you pr
 
 Close up and let sit for __at least three days__. Make sure to store the jar in a dark, dry place.
 
-You can sample your ginger beer every now and then after three days of fermentation, and when you are satisfied, bottle it and store it in the fridge (lasts at least one or two weeks).
+You can sample your ginger beer every now and then after three days of fermentation, or when you are satisfied, bottle it and store it in the fridge (lasts at least one or two weeks, but I've kept some jars up to a month).
