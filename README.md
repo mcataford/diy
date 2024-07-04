@@ -1,5 +1,10 @@
 # diy
-A collection of things you can do at home
+A collection of things you can do at 
+
+> # ✈️ Moved away!
+>
+> This project has moved away from Github and is now hosted [elsewhere](https://forge.karnov.club/marc/diy).
+
 
 ## Index
 
